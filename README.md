@@ -1,1 +1,3 @@
-# Netflix_movies_recommendation
+# Netflix Movie Recommendation
+
+This project is to recommend Netflix movies
