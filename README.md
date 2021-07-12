@@ -21,8 +21,11 @@ https://drive.google.com/drive/folders/1zITqnpLJp1toe1OnI5fKpU1qpEj3SgTa?usp=sha
 ## For a quick look, open the html files for each notebook.
 
 Content-based filtering used 'tag' as the main feature used and we are going to find the most relevant 'tag' and extract the features of the tag content. There are clean tags with relevancy scoring. That makes it easier to get the most relevant tags for the movie.
+![df](https://user-images.githubusercontent.com/20230956/125285760-fdc6ac00-e340-11eb-9d3a-34e9b25e65e4.png)
 
 For collaborative filtering, we are going to use the rating of the movie given by each user to find the similarity between the two users. We just use similarity-based on to calculate how similar the user interests are. The higher the similarity score, the more the user profiles are closed.
+
+![matrix](https://user-images.githubusercontent.com/20230956/125285847-1767f380-e341-11eb-967f-40baa329e408.png)
 
 
 ## Technologies
